@@ -46,7 +46,7 @@ export function CryptoDashboard() {
   if (error) return <Text>Offline mode</Text>;
 
   return (
-    <View className="flex-1 flex gap-5 pb-16">
+    <View className="flex-1 flex gap-5 pb-16 bg-white">
       {/* App Header */}
       <HeaderComponent />
 
