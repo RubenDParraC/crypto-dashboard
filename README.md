@@ -117,3 +117,22 @@ Se implementa una **Arquitectura Modular por Features**, inspirada en principios
 6. Expo Go en tu dispositivo móvil (escanea QR)
 7. iOS Simulator: presiona `i`
 8. Android Emulator: presiona `a`
+
+### Mejoras Futuras
+
+- Integrar WebSocket para actualizaciones verdaderamente en tiempo real.
+- Añadir tests unitarios e integración (Jest + Testing Library).
+- Persistencia más robusta con SQLite.
+- Funcionalidades de búsqueda, filtrado y ordenamiento de activos.
+- Implementar feature flags y configuración por entorno.
+- Optimizar aún más FlashList con getItemLayout si fuese necesario.
+
+### Notas Técnicas
+
+Este proyecto demuestra:
+
+- Gestión eficiente de estado y datos en React Native.
+- Principios de Offline-first y caching.
+- Renderizado de listas grandes con FlashList.
+- Arquitectura limpia y modular, escalable a futuras features.
+- Control de ciclos de vida, memoria y eficiencia de red.
