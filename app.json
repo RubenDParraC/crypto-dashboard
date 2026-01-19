@@ -21,10 +21,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
+      "package": "com.ruben.crypto.dashboard",
       "predictiveBackGestureEnabled": false
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e6ae030c-8f16-43d1-bc4e-33813042dd13"
+      }
+    },
+    "owner": "ruben_parra_50"
   }
 }

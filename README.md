@@ -90,7 +90,7 @@ Se implementa una **Arquitectura Modular por Features**, inspirada en principios
 - **FlashList** (Shopify) para listas de alto rendimiento
 - **AsyncStorage** para persistencia offline
 - **Animated API** para animaciones
-- **NativeWind** para estilos (Tailwind CSS en RN)
+- **NativeWind** para estilos (Tailwind CSS en RN) y manejo de **Dark Mode**
 - **Hooks** para gestión de estado y polling
 
 ---
